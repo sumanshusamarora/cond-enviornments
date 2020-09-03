@@ -4,3 +4,4 @@
     torchtext.yml is placed at C:\Users\aroras13\Anaconda3\envs location in case the enviornment gets messed up
 --> ocr - opencv, pytessaract, pillow
 --> research - Enviornment to explore and research. No specification as such. Install or uninstall anything
+--> tensorflow_clone = To test packages on top of existing enviornment. Want to try installing tf 2.3 through PIP

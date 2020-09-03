@@ -1,8 +1,8 @@
 name: pytorch
 channels:
-  - pytorch
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   - argon2-cffi=20.1.0=py38h1e8a9f7_1
   - attrs=19.3.0=py_0
